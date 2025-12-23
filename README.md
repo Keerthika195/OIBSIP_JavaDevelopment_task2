@@ -4,7 +4,6 @@ The objective of this task was to build a simple Number Guessing Game in Java th
 
 STEPS:
 --To achieve this, the steps performed were:
-
 --Designing the game flow: choose a random number in a fixed range, ask the user to guess, then respond with “higher”, “lower” or “correct”.
 ​
 --Writing a main game class with methods to start the game, play a single round, and calculate the score based on the number of attempts.
